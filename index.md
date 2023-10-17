@@ -2,24 +2,21 @@
 layout: page
 ---
 
-# About Me
+# Bio
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Zixin XU (徐紫馨)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning at Cambridge University with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
+I am an undergraduate student majoring in **Data Science** at City University of Hong Kong. Currently, I work as a part-time technical assistant in the TIDES-LAB, advised by [Prof. Jizhou LI]([Welcome to Jizhou’s Homepage — Jizhou Li](http://jizhou.li/index.html)).  
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am interested in designing and implementing advanced deep learning strategies for image processing, such as object recovery from X-ray coherent diffraction patterns. I am also interested in applications and improvements of Implicit Neural Representation.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me.
 
 <br>
 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year Mphil program and graduate in 2025. Looking for PhD position after that.
+- **Sep 2020 - Present:** City University of Hong Kong (BSC, **3.80/4.30**)
+- **2021-2023 SemA**: Dean's list
+- **2022**: Smart Decision | SimpleCredit Scholarships
 
 <br>
 
@@ -27,23 +24,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
+- AI for Science
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
-
----
-
-## News and Updates
-
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started internship at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+My current research is centered on addressing real-world challenges encountered by artificial intelligence. I have a deep-seated passion for **Machine Learning** and its dynamic applications within the realm of **Science**. My ultimate aspiration is to harness my abilities and knowledge to make a meaningful contribution that enhances the well-being of society.
 
 <br>
