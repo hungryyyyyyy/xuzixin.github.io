@@ -6,7 +6,7 @@ title: Publications
 
 ## Conference Paper
 
-- T. Li*, **Z.     Xu***, Y. S. Chu, X. Huang, J. Li, “Coordinate-based Neural Network for Fourier Phase Retrieval, ” *ICASSP* *2024*. (* equal contribution, CCF-B). doi: 10.1109/ICASSP48485.2024.10447474.
+- T. Li\*, **Z. Xu**\*, Y. S. Chu, X. Huang, J. Li, “Coordinate-based Neural Network for Fourier Phase Retrieval, ” *ICASSP* *2024*. (* equal contribution, CCF-B). doi: 10.1109/ICASSP48485.2024.10447474.
 
 - Coming soon... 🚀
 
